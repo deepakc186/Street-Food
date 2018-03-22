@@ -1,0 +1,115 @@
+.row-header{
+	padding: 0px auto;
+	margin: 0px auto;
+	
+	
+}
+.row-content{
+	margin: 0px auto;
+	padding: 100px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
+.row-contenta{
+    margin: 0px auto;
+	padding: 10px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 200px;
+}
+.row-cum{
+    margin: 0px auto;
+    padding: 20px 0px 13px 0px;
+    min-height: 70px;
+}
+.footer{
+		background-color: #D1C4E9;
+		margin: 0px auto;
+		padding: 20px 0px 20px 0px;
+}
+.jumbotron{
+		padding: 70px 0px 70px 0px;
+		
+		margin: 0px auto;
+		
+                color: #006666;
+}
+address{
+	font-size: 80%;
+	margin: 0px;
+	color: #0f0f0f;
+}
+body{
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+        font-family: 'Varela Round', sans-serif;
+}
+.navbar-inverse{
+   background-color: gray;
+	
+}
+.tab-content{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	padding: 10px;
+}
+.carousel{
+    background: #cccccc;
+	
+}
+.carousel-item{
+	height: 500px;
+	width: 750px;
+        
+        
+}
+.carousel-item-img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 600px;
+        width: 100%
+}
+.navbar-brand{
+   font-family: 'Lato', sans-serif;
+  padding: 0px;
+  font-size: 40px;
+  margin: 0px;
+   
+}
+
+.row-header{
+    padding-bottom: 80px;
+}
+header{
+    width: 100%;
+      height: 70vh;
+      background: url(food.jpg) no-repeat 50% 50%;
+      background-size: cover;
+}
+@media all and (max-width: 1920px) and (min-width: 980px) {
+.jumbotron {
+    background-image: url("food.jpg"); 
+    background-size: cover;
+   
+}
+}
+.navbar-nav{
+    padding-left: 20px;
+}
+  
+.row-con{
+    padding-right: 0px;
+}
+.modal-content{
+    background-color: gray;
+}
+
+
+
+.wrapper{
+     background-image:  url("food.jpg");
+     background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
